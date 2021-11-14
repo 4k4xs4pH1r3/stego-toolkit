@@ -1,4 +1,4 @@
-FROM debian:stretch-20170907
+FROM debian:stretch-20210927
 
 ENV DEBIAN_FRONTEND noninteractive
 
