@@ -1,4 +1,4 @@
-FROM debian:bullseye-20211011
+FROM debian:11
 
 ENV DEBIAN_FRONTEND noninteractive
 
