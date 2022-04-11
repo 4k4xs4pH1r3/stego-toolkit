@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 FROM debian:11
+=======
+FROM debian:bullseye
+>>>>>>> master
 
 ENV DEBIAN_FRONTEND noninteractive
 
