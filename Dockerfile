@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-FROM debian:11
+FROM debian:12
 =======
-FROM debian:11
+FROM debian:12
 >>>>>>> master
 
 ENV DEBIAN_FRONTEND noninteractive
